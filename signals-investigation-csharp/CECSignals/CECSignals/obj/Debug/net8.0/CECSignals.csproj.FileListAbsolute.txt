@@ -1,0 +1,15 @@
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\bin\Debug\net8.0\CECSignals.exe
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\bin\Debug\net8.0\CECSignals.deps.json
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\bin\Debug\net8.0\CECSignals.runtimeconfig.json
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\bin\Debug\net8.0\CECSignals.dll
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\bin\Debug\net8.0\CECSignals.pdb
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.AssemblyInfoInputs.cache
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.AssemblyInfo.cs
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.csproj.CoreCompileInputs.cache
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.sourcelink.json
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.dll
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\refint\CECSignals.dll
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.pdb
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\CECSignals.genruntimeconfig.cache
+F:\Dev\python\ChuckECheeseStuff\signals-investigation-csharp\CECSignals\CECSignals\obj\Debug\net8.0\ref\CECSignals.dll

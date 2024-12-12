@@ -164,3 +164,4 @@ cython_debug/
 signals-investigation/*
 !signals-investigation/read_signals.py
 !signals-investigation/chuckeheadmouth.wav
+!signals-investigation/javichupala.py
